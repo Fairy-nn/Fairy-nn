@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://cdn.jsdelivr.net/gh/dmego/images/img/Hi.gif"  height="32" />, I'm Songnan 🐰</h1>
+<h1 align="center">Hi, I'm Songnan 🐰</h1>
 <h3 align="center">A Go language enthusiast and a learner of back-end development.</h3>
 
 <p align="center"> 
@@ -17,4 +17,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fairy-nn&show_icons=true&locale=en&layout=compact" alt="fairy-nn" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ca120a4c-8527-487b-818c-9cee295578de" width="100px" alt="fairy-nn" />
 </p>
